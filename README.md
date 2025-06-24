@@ -46,5 +46,7 @@ Ideal for co-authors, journalists, or bloggers to collaborate on drafts without 
 
 #OUTPUT:
 
+![Screenshot (33)](https://github.com/user-attachments/assets/4ebe11d6-ca96-4183-82dc-73d58404129b)
+
 
 
